@@ -1,0 +1,5 @@
+[component]
+name = "sigmaos-mac-support"
+version = "0.1.0"
+description = "SigmaOS macOS support helpers"
+license = "GPL-3.0-or-later"
