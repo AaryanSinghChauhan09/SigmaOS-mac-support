@@ -1,4 +1,6 @@
-# Omarchy Mac
+# SigmaOS Mac Support
+
+> Forked from [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) (MIT). See `SIGMAOS_FORK.md`.
 
 > [!IMPORTANT]
 > **The Omarchy Mac and Omarchy MX Mac teams joined Omacom, and together we built
