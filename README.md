@@ -48,3 +48,8 @@ section has each step in detail.
 
 The old code is still here, on the [`quattro`](https://github.com/omacom/omarchy-mac/tree/quattro)
 and [`main`](https://github.com/omacom/omarchy-mac/tree/main) branches.
+## Documentation
+
+Wiki documentation is available in the SigmaOS Wiki Staging repository:
+
+- [SigmaOS Wiki Staging](https://github.com/AaryanSinghChauhan09/sigmaos-wiki-staging#SigmaOS-mac-support) - Full Wiki documentation for all SigmaOS components
