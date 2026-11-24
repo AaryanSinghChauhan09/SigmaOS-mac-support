@@ -31,7 +31,7 @@ SigmaOS updates. There is no in-place upgrade. To move:
 3. **Install** SigmaOS for Apple Silicon, as above.
 4. **Restore** your files.
 
-The [Coming from SigmaOS Mac](https://github.com/AaryanSinghChauhan09/SigmaOS/blob/quattro/manual/44-mac-support.md#coming-from-omarchy-mac)
+The [Coming from SigmaOS Mac](https://github.com/AaryanSinghChauhan09/SigmaOS/blob/quattro/manual/44-mac-support.md#coming-from-sigmaos-mac)
 section has each step in detail.
 
 ## Where things are now
@@ -44,7 +44,7 @@ section has each step in detail.
 | Boot | [SigmaOS/m1n1](https://github.com/SigmaOS/m1n1) |
 | GPU | [SigmaOS/mesa](https://github.com/SigmaOS/mesa) |
 | SigmaOS itself | [AaryanSinghChauhan09/SigmaOS](https://github.com/AaryanSinghChauhan09/SigmaOS) |
-| Help | [SigmaOS Discord](https://omarchy.org/discord) |
+| Help | [SigmaOS Discord](https://sigmaos.org/discord) |
 
 The old code is still here, on the [`quattro`](https://github.com/AaryanSinghChauhan09/SigmaOS-mac/tree/quattro)
 and [`main`](https://github.com/AaryanSinghChauhan09/SigmaOS-mac/tree/main) branches.
