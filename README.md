@@ -15,7 +15,7 @@ tested, reported and contributed.
 From macOS:
 
 ```bash
-brew install SigmaOS/mac/omarchy
+brew install SigmaOS/mac/sigmaos
 ```
 
 Or download the [SigmaOS installer](https://github.com/AaryanSinghChauhan09/SigmaOS-mac-installer/releases).
